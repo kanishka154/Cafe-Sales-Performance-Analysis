@@ -46,7 +46,9 @@ The Power BI dashboard includes:
 - Location-wise Revenue
 - Revenue Ranking
 
-*(Dashboard screenshot available in the PowerBI folder.)*
+## 📊 Dashboard Preview
+
+![Cafe Sales Dashboard](PowerBI/dashboard_overview.png)
 
 ## Repository Contents
 
