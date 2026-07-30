@@ -48,7 +48,9 @@ The Power BI dashboard includes:
 
 ## 📊 Dashboard Preview
 
-![Cafe Sales Dashboard](PowerBI/dashboard_overview.png)
+## 📊 Dashboard Preview
+
+![Cafe Sales Dashboard](PowerBI/Cafe%20Sales%20Performance%20Dashboard.png)
 
 ## Repository Contents
 
