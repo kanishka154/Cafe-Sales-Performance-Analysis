@@ -5,7 +5,7 @@ This folder contains the datasets used in the Cafe Sales Performance Analysis pr
 ## Files
 
 - **dirty_cafe_sales.xlsx** – Original raw dataset before cleaning.
-- **clean_cafe_sales_correct.xlsx** – Cleaned dataset after handling missing values, duplicates, formatting issues, and data validation.
+- **clean_cafe_sales.xlsx** – Cleaned dataset after handling missing values, duplicates, formatting issues, and data validation.
 
 ## Dataset Information
 
