@@ -4,7 +4,7 @@ This folder contains SQL scripts used for the Cafe Sales Performance Analysis pr
 
 ## Contents
 
-- `Queries.sql` – SQL queries used for data exploration and business analysis.
+- cafe_sale_analysis.sql – SQL queries used for data exploration and business analysis.
 
 ## Topics Covered
 
