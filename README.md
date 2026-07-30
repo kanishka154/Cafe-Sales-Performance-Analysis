@@ -1,6 +1,6 @@
 # ☕ Cafe Sales Performance Analysis
 
-An end-to-end Data Analytics project that analyzes cafe sales using **Excel, SQL, Python (Pandas), and Power BI**.
+This project analyzes cafe sales data to uncover customer purchasing patterns, evaluate sales performance, and identify opportunities to increase revenue through data-driven business recommendations.
 
 ## Project Overview
 
