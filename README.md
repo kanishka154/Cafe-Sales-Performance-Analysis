@@ -30,8 +30,6 @@ Cafe-Sales-Performance-Analysis
 ├── SQL/
 ├── Python/
 ├── Power BI/
-├── LICENSE
-└── README.md
 ```
 
 ## Dashboard
